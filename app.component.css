@@ -1,0 +1,41 @@
+header{
+    background-color:black;
+}
+
+.cat-logo{
+    width: 180px;
+    line-height: 68px;
+}
+
+.header-gradient{
+    height: 13px;
+    background: transparent url(src\assets\eps2Z.png) repeat-x 0 0;
+}
+.main-body{
+    background-image: url(D:\Angular6\cat\src\assets\2011-cat-ct660-9.jpg);
+    width:100%;
+    height:auto;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   height:540px;
+} 
+/* .login-button{
+    background-color: #ffeb00;
+    color: black;
+    float:right;
+    display:block;
+    position: absolute;
+    top: 17px;
+    left: 1213px;
+} */
+.footer{
+    
+}
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+.bg-lightgray
+{
+    background-color:black;
+    color:white;
+    padding-top: 1px;
+}

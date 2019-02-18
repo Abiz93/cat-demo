@@ -1,0 +1,26 @@
+.card-body{
+    height: 37%;
+    width: 30%;
+    background-color: black;
+    border-radius: 41px;
+    display:block;
+    position: absolute;
+    top: 30px;
+    left: 33%;
+}
+ /* .login-body{
+    height: 35%;
+    width: 33%;
+    display: inline-block;
+    
+     position: absolute;
+    top: 20px;
+    left: 30%; 
+ }  */
+.login-btn{
+    width:100%;
+    background-color:#fdd600;
+    text-align:center;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
